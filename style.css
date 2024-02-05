@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    background-color: #54eb19;
+    border: solid black 1px;
+}
+
+.nav-bar li {
+    list-style: none;
+    display: inline-block;
+    margin: 2px;
+    padding: 2px;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    font-size: 18px;
+    color: Black;
+}
+
+.content p {
+    padding: 2px;
+}
